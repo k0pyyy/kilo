@@ -7,4 +7,4 @@ In this project, we use a ton of escape commands that was used in the original V
 ### STD Lib Uses
 This project is all in regular old C, with no external libraries needed. Honestly, the best way to see what something does is to look up the man page that corresponds to the header file that a particular struct or function comes from. To do that, just google `man <header name>` and there will be plenty of results that will give more information on whatever you want to see.
 
-## CURRENT STEP: 45
+## CURRENT STEP: 55
